@@ -44,4 +44,5 @@
   });
  }
 
+ console.log('hi')
  export{func} 
