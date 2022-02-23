@@ -7,8 +7,8 @@
  * https://developer.spotify.com/web-api/authorization-guide/#client_credentials_flow
  */
  import {Buffer} from 'buffer';
- var client_id = 'fea91aa6c92a4ddca58823be9386d4a6'; // Your client id
- var client_secret = '73b453d73588440e8d79d0d3072b24e7'; // Your secret
+ var client_id = ''; // Your client id
+ var client_secret = ''; // Your secret
  
  // your application requests authorization
  var authOptions = {
